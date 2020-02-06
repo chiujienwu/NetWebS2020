@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jerry\\source\\repos\\NetWebDev-client-s2020\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\jerry\\Source\\Repos\\NetWebS2020\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\jerry\\source\\repos\\NetWebDev-client-s2020\\Client.csproj",
+      "projectPath": "C:\\Users\\jerry\\Source\\Repos\\NetWebS2020\\Client.csproj",
       "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jerry\\source\\repos\\NetWebDev-client-s2020\\obj\\",
+      "outputPath": "C:\\Users\\jerry\\Source\\Repos\\NetWebS2020\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
